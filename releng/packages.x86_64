@@ -130,3 +130,5 @@ xfsprogs
 xl2tpd
 zsh
 boost cmake extra-cmake-modules libpwquality qt5ct qt5-location qt5-svg qt5-webengine yaml-cpp hwinfo qt5-translations upower kcoreaddons kconfig kpmcore kservice kwidgetsaddons dmidecode doxygen kparts polkit-qt5 python qt5-tools qt5-xmlpatterns solid
+ckbcomp
+mkinitcpio-openswap

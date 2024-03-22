@@ -154,3 +154,5 @@ python
 qt5-tools 
 qt5-xmlpatterns 
 solid
+ckbcomp
+mkinitcpio-openswap
